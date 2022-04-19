@@ -20,6 +20,7 @@
     "parcel": "^2.4.1",
     "parcel-namer-custom": "^0.2.0",
     "parcel-namer-rewrite": "^2.0.0-rc.2",
-    "postcss-preset-env": "^7.4.3"
+    "postcss-preset-env": "^7.4.3",
+    "sharp": "^0.29.1"
   }
 }
