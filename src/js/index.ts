@@ -1,7 +1,7 @@
-import LazyLoad from "vanilla-lazyload";
+// import LazyLoad from "vanilla-lazyload";
 
-const myLazyLoad = new LazyLoad({
-  use_native: true
-})
+// const myLazyLoad = new LazyLoad({
+//   use_native: true
+// })
 
-myLazyLoad.update()
+// myLazyLoad.update()
