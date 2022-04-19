@@ -1,4 +1,5 @@
-type Test = 'testing'
+import LazyLoad from "vanilla-lazyload";
 
-const test: Test = 'testing'
-console.log(test)
+const myLazyLoad = new LazyLoad()
+
+myLazyLoad.update()
