@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "yarn clean && parcel src/*.html",
-    "build": "yarn clean && parcel build src/*.html --no-optimize",
+    "build": "yarn clean && parcel build src/*.html --no-optimize --no-source-maps --no-scope-hoist",
     "clean": "rimraf dist && rimraf .parcel-cache"
   },
   "parcel-namer-custom": {
@@ -13,7 +13,7 @@
     ".jpg$": "/[folder]/[name].[type]",
     ".css$": "/[folder]/[name].[type]",
     ".scss$": "/[folder]/[name].[type]",
-    ".ts$": "/[folder]/[name].[hash].[type]",
+    ".ts$": "/[folder]/[name].[type]",
     ".js$": "/[folder]/[name].[type]"
   },
   "devDependencies": {
