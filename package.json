@@ -10,6 +10,7 @@
     ".gif$": "[folder]/[name].[ext]",
     ".png$": "[folder]/[name].[type]",
     ".jpg$": "[folder]/[name].[type]",
+    ".css$": "[folder]/[name].[ext]",
     ".scss$": "[folder]/[name].[type]",
     ".ts$": "[folder]/[name].[type]",
     ".js$": "[folder]/[name].[type]"
