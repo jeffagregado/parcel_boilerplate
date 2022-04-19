@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "dev": "parcel src/*.html",
+    "dev": "yarn clean && parcel src/*.html",
     "build": "yarn clean && parcel build src/*.html --no-optimize",
     "clean": "rimraf dist && rimraf .parcel-cache"
   },
