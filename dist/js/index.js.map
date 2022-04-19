@@ -1,0 +1,1 @@
+{"mappings":"AAAA,IAAM,IAAI,GAAG,OAAO;AACpB,OAAO,CAAC,GAAG,CAAC,IAAI,CAAC","sources":["src/js/index.js"],"sourcesContent":["const test = 'hello'\r\nconsole.log(test)"],"names":[],"version":3,"file":"index.js.map"}

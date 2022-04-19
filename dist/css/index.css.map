@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/css/index.scss"],"sourcesContent":["body {\r\n  background-color: black;\r\n  display: flex;\r\n}"],"names":[],"version":3,"file":"index.css.map"}
