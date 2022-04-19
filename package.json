@@ -10,9 +10,9 @@
     ".gif$": "[folder]/[name].[ext]",
     ".png$": "[folder]/[name].[type]",
     ".jpg$": "[folder]/[name].[type]",
-    ".css$": "[folder]/[name].[ext]",
+    ".css$": "[folder]/[name].[type]",
     ".scss$": "[folder]/[name].[type]",
-    ".ts$": "[folder]/[name].[type]",
+    ".ts$": "[folder]/[name].[hash].[type]",
     ".js$": "[folder]/[name].[type]"
   },
   "devDependencies": {

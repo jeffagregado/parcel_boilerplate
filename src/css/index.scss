@@ -1,4 +1,7 @@
 body {
   background-color: black;
   display: flex;
+  &.is-loading {
+    background-color: #000;
+  }
 }
