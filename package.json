@@ -22,5 +22,8 @@
     "parcel-namer-rewrite": "^2.0.0-rc.2",
     "postcss-preset-env": "^7.4.3",
     "sharp": "^0.29.1"
+  },
+  "dependencies": {
+    "vanilla-lazyload": "^17.7.0"
   }
 }

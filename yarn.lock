@@ -2554,6 +2554,11 @@ v8-compile-cache@^2.0.0:
   resolved "https://registry.yarnpkg.com/v8-compile-cache/-/v8-compile-cache-2.3.0.tgz#2de19618c66dc247dcfb6f99338035d8245a2cee"
   integrity sha512-l8lCEmLcLYZh4nbunNZvQCJc5pv7+RCwa8q/LdUx8u7lsWvPDKmpodJAJNwkAhJC//dFY48KuIEmjtd4RViDrA==
 
+vanilla-lazyload@^17.7.0:
+  version "17.7.0"
+  resolved "https://registry.yarnpkg.com/vanilla-lazyload/-/vanilla-lazyload-17.7.0.tgz#67a246a96181d668f6b78cb1ffc00672d9af6971"
+  integrity sha512-ON07xBNE0fB72qLBdyUkmO1VyWPRYmF6jKp7aRmyrFa2XxCxB/N9CcfZhVC5i6byzokg/Q0ZYnWLa4K+H6DCwA==
+
 weak-lru-cache@^1.2.2:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/weak-lru-cache/-/weak-lru-cache-1.2.2.tgz#fdbb6741f36bae9540d12f480ce8254060dccd19"
