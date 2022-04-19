@@ -7,7 +7,11 @@
     "build": "parcel build src/*.html --no-optimize"
   },
   "parcel-namer-custom": {
+    ".gif$": "[folder]/[name].[ext]",
+    ".png$": "[folder]/[name].[type]",
+    ".jpg$": "[folder]/[name].[type]",
     ".scss$": "[folder]/[name].[type]",
+    ".ts$": "[folder]/[name].[type]",
     ".js$": "[folder]/[name].[type]"
   },
   "devDependencies": {
