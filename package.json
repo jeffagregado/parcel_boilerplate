@@ -2,6 +2,7 @@
   "name": "rust-swc_boilerplate",
   "version": "1.0.0",
   "license": "MIT",
+  "browserslist": "last 2 versions, > 0.5%, IE >= 10",
   "scripts": {
     "dev": "yarn clean && parcel src/*.html",
     "build": "yarn clean && parcel build src/*.html --no-optimize --no-source-maps --no-scope-hoist",
