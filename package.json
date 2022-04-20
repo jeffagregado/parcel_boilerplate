@@ -14,8 +14,8 @@
     ".jpg$": "/[folder]/[name].[type]",
     ".css$": "/[folder]/[name].[type]",
     ".scss$": "/[folder]/[name].[type]",
-    ".ts$": "/[folder]/[name].[type]",
-    ".js$": "/[folder]/[name].[type]"
+    ".ts$": "/[folder]/[name].[hash].[type]",
+    ".js$": "/[folder]/[name].[hash].[type]"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "2.4.1",
