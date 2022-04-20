@@ -6,6 +6,9 @@ module.exports = {
       stage: 1,
       features: {
         'nesting-rules': true,
+      },
+      autoprefixer: {
+        grid: true,
       }
     }),
   ],
