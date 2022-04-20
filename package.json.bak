@@ -1,0 +1,32 @@
+{
+  "name": "rust-swc_boilerplate",
+  "version": "1.0.0",
+  "license": "MIT",
+  "browserslist": "last 2 versions, > 0.5%, IE >= 10",
+  "scripts": {
+    "dev": "yarn clean && parcel src/*.html",
+    "build": "yarn clean && parcel build src/*.html --no-optimize --no-source-maps --no-scope-hoist",
+    "clean": "rimraf dist && rimraf .parcel-cache"
+  },
+  "parcel-namer-custom": {
+    ".gif$": "/[folder]/[name].[ext]",
+    ".png$": "/[folder]/[name].[type]",
+    ".jpg$": "/[folder]/[name].[type]",
+    ".css$": "/[folder]/[name].[type]",
+    ".scss$": "/[folder]/[name].[type]",
+    ".ts$": "/[folder]/[name].[hash].[type]",
+    ".js$": "/[folder]/[name].[hash].[type]"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.4.1",
+    "parcel": "^2.4.1",
+    "parcel-namer-custom": "^0.2.0",
+    "parcel-namer-rewrite": "^2.0.0-rc.2",
+    "postcss-preset-env": "^7.4.3",
+    "rimraf": "^3.0.2",
+    "sharp": "^0.29.1"
+  },
+  "dependencies": {
+    "vanilla-lazyload": "^17.7.0"
+  }
+}
