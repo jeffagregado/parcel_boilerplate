@@ -1,9 +1,9 @@
 import LazyLoad from "vanilla-lazyload";
 
 // @ts-ignore
-if (document.documentMode) { 
-  window.alert('This is IE')
-}
+// if (document.documentMode) { 
+//   window.alert('This is IE')
+// }
 
 const myLazyLoad = new LazyLoad();
 // After your content has changed...
