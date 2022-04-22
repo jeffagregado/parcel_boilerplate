@@ -1,4 +1,5 @@
 const postcssPresetEnv = require('postcss-preset-env')
+const flexGapPolyfill = require('flex-gap-polyfill');
 
 module.exports = {
   plugins: [
@@ -8,11 +9,11 @@ module.exports = {
       stage: 2,
       features: {
         'nesting-rules': true,
-        'gap-properties': true,
       },
       autoprefixer: {
         grid: true,
       },
     }),
+    flexGapPolyfill()
   ],
 }
