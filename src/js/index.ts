@@ -34,6 +34,7 @@ const imageContent = (datas) => {
 
 images()
 
+//Test useState import
 const [counter, setCounter] = useState('a');
 // 👆 We destructure the array as a return of the useState function into two value
 
