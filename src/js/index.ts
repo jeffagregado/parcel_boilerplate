@@ -1,5 +1,6 @@
 import LazyLoad from 'vanilla-lazyload'
 import axios from 'axios'
+import useState from './useState'
 
 // @ts-ignore
 // if (document.documentMode) {
@@ -28,10 +29,15 @@ const imageContent = (datas) => {
     `
   }).join('')
   img.insertAdjacentHTML('beforeend', blockImg)
-  console.log(blockImg)
+  // console.log(blockImg)
 }
 
 images()
+
+const [counter, setCounter] = useState('a');
+// 👆 We destructure the array as a return of the useState function into two value
+
+console.log(counter()); // 👈 returns 0 which it's the value of counter()
 
 myLazyLoad.update()
 
