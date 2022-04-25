@@ -5,8 +5,8 @@
   "browserslist": "last 2 versions, > 0.5%, IE >= 10",
   "scripts": {
     "dev": "yarn clean && parcel src/index.html",
-    "build": "yarn clean && parcel build src/*.html --no-optimize --no-source-maps --public-url .",
-    "buildlite": "yarn clean && parcel build src/*.html --no-source-maps --public-url .",
+    "build": "yarn clean && parcel build src/*.html --no-optimize --no-source-maps --no-content-hash --public-url .",
+    "buildlite": "yarn clean && parcel build src/*.html --no-source-maps --no-content-hash --public-url .",
     "clean": "rimraf dist && rimraf .parcel-cache"
   },
   "parcel-namer-custom": {
