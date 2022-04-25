@@ -1,7 +1,4 @@
 {
 	"extends": "@parcel/config-default",
-  "namers": ["parcel-namer-custom", "..."],
-  "compressors": {
-    "*.{html,css,js,svg,map}": ["@parcel/compressor-gzip"]
-  }
+  "namers": ["parcel-namer-custom", "..."]
 }

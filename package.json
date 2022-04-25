@@ -2,7 +2,7 @@
   "name": "rust-swc_boilerplate",
   "version": "1.0.0",
   "license": "MIT",
-  "browserslist": "last 2 versions, > 0.5%, IE >= 10",
+  "browserslist": "last 2 versions, > 0.5%, IE 11",
   "scripts": {
     "dev": "yarn clean && parcel src/index.html",
     "build": "yarn clean && parcel build src/*.html --no-optimize --no-source-maps --no-content-hash --public-url .",
@@ -19,9 +19,10 @@
     ".js$": "/[folder]/[name].[hash].[type]"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "2.4.1",
+    "@parcel/compressor-gzip": "^2.5.0",
+    "@parcel/transformer-sass": "^2.5.0",
     "flex-gap-polyfill": "^4.1.0",
-    "parcel": "^2.4.1",
+    "parcel": "^2.5.0",
     "parcel-namer-custom": "^0.2.0",
     "parcel-namer-rewrite": "^2.0.0-rc.2",
     "postcss-preset-env": "^7.4.3",
