@@ -9,6 +9,11 @@
     "\/*.png",
     "\/*.jpg"
   ],
+  "@parcel/transformer-css": {
+    "drafts": {
+      "nesting": true
+    }
+  },
   "scripts": {
     "dev": "yarn clean && parcel src/index.html",
     "build": "yarn clean && parcel build src/*.html --no-optimize --no-source-maps --no-content-hash --public-url .",

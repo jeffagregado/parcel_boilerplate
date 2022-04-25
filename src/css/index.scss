@@ -29,4 +29,8 @@
     width: 500px;
     height: 500px;
   }
+
+  & > .test1 {
+    display: grid;
+  }
 }

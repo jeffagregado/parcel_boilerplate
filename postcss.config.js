@@ -5,13 +5,13 @@ module.exports = {
   plugins: [
     // require('postcss-import'),
     postcssPresetEnv({
-      browsers: 'last 2 versions, > 0.5%, IE >= 10',
-      stage: 2,
+      stage: 3,
       features: {
         'nesting-rules': true,
       },
       autoprefixer: {
-        grid: true,
+        "flexbox": "no-2009",
+        grid: 'autoplace',
       },
     }),
   ],
