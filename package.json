@@ -4,7 +4,10 @@
   "license": "MIT",
   "browserslist": "last 2 versions, > 0.5%, IE 11",
   "parcelIgnore": [
-    "{{*.*}}"
+    "jquery.min.js",
+    "\/*.csv",
+    "\/*.png",
+    "\/*.jpg"
   ],
   "scripts": {
     "dev": "yarn clean && parcel src/index.html",
