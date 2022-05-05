@@ -18,7 +18,8 @@
     "dev": "yarn clean && parcel src/index.html",
     "build": "yarn clean && parcel build src/*.html --no-optimize --no-source-maps --no-content-hash --public-url .",
     "buildlite": "yarn clean && parcel build src/*.html --no-source-maps --no-content-hash --public-url .",
-    "clean": "rimraf dist && rimraf .parcel-cache"
+    "clean": "rimraf dist && rimraf .parcel-cache",
+    "sort": "yarn postcss --replace dist/css/*.css"
   },
   "parcel-namer-custom": {
     ".gif$": "/[folder]/[name].[ext]",
