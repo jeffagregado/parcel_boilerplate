@@ -2,12 +2,12 @@
   "name": "rust-swc_boilerplate",
   "version": "1.0.0",
   "license": "MIT",
-  "browserslist": "last 2 versions, > 0.5%, IE 11",
+  "browserslist": "last 2 versions, > 0.5%, IE 10",
   "parcelIgnore": [
     "jquery.min.js",
-    "\/*.csv",
-    "\/*.png",
-    "\/*.jpg"
+    "/*.csv",
+    "/*.png",
+    "/*.jpg"
   ],
   "@parcel/transformer-css": {
     "drafts": {
@@ -33,11 +33,14 @@
     "@parcel/compressor-gzip": "^2.5.0",
     "@parcel/transformer-sass": "^2.5.0",
     "flex-gap-polyfill": "^4.1.0",
+    "lost": "^8.3.1",
     "parcel": "^2.5.0",
     "parcel-namer-custom": "^0.2.0",
     "parcel-namer-rewrite": "^2.0.0-rc.2",
     "parcel-resolver-ignore": "^2.0.0",
+    "postcss": "^8.4.13",
     "postcss-preset-env": "^7.4.3",
+    "postcss-sorting": "^7.0.1",
     "process": "^0.11.10",
     "rimraf": "^3.0.2",
     "sharp": "^0.29.1"
