@@ -1,6 +1,6 @@
 const postcssPresetEnv = require('postcss-preset-env')
 const flexGapPolyfill = require('flex-gap-polyfill')
-const lost = require('lost')
+// const lost = require('lost')
 // const postcssSorting = require('postcss-sorting')
 
 module.exports = {
@@ -19,7 +19,7 @@ module.exports = {
     flexGapPolyfill({
       only: ['flex-gap'],
     }),
-    lost(),
+    // lost(),
     // postcssSorting({
     //   order: [
     //     'custom-properties',
