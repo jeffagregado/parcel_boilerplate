@@ -1,0 +1,566 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>おうちで安心 入浴フローチャート｜介護用品のレンタル ダスキンヘルスレント</title>
+<meta name="keywords" content="入浴,お風呂,フローチャート,ダスキン,ヘルスレント,介護商品,介護用品,福祉用具">
+<meta name="description" content="おうちで安心、身体状況に合わせてご家庭でお風呂に入るポイントをまとめた「入浴フローチャート」を介護用品のレンタルダスキンヘルスレントがお届けします。">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"./>
+<meta property="og:title" content="おうちで安心 入浴フローチャート｜介護用品のレンタル ダスキンヘルスレント"./>
+<meta property="og:description" content="おうちで安心、身体状況に合わせてご家庭でお風呂に入るポイントをまとめた「入浴フローチャート」を介護用品のレンタルダスキンヘルスレントがお届けします。"./>
+<meta property="og:image" content="https://healthrent.duskin.jp/flowchart/nyuyoku/img/ogp.png"./>
+<meta property="og:url" content="https://healthrent.duskin.jp/flowchart/nyuyoku/index.html"./>
+<meta property="og:type" content="article"./>
+<meta property="og:site_name" content="ダスキンヘルスレント"./>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"./>
+<meta name="format-detection" content="telephone=no,address=no,email=no"./>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="ダスキンヘルスレント">
+<meta name="twitter:url" content="https://healthrent.duskin.jp/ofuro/index.html">
+<meta name="twitter:title" content="おうちで安心 入浴フローチャート｜介護用品のレンタル ダスキンヘルスレント">
+<meta name="twitter:description" content="おうちで安心、身体状況に合わせてご家庭でお風呂に入るポイントをまとめた「入浴フローチャート」を介護用品のレンタルダスキンヘルスレントがお届けします。">
+<meta name="twitter:image" content="https://healthrent.duskin.jp/flowchart/nyuyoku/img/ogp.png">
+<link rel="canonical" href="https://healthrent.duskin.jp/ofuro/index.html">
+<link rel="apple-touch-icon-precomposed" href="https://healthrent.duskin.jp/img/common/apple-touch-icon-precomposed.png"/>
+<link rel="shortcut icon" href="/img/common/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="/img/common/favicon.ico" type="image/vnd.microsoft.icon">
+
+<link rel="stylesheet" href="/css/common/r_common.css">
+<link rel="stylesheet" href="/css/common.css" media="screen and (min-width:768px)">
+<link rel="stylesheet" href="/css/common/import_2.css" media="screen and (min-width:768px)">
+<link rel="stylesheet" href="/css/common/duskin.css" media="screen and (max-width:767px)">
+<link rel="stylesheet" href="/css/common/s_import_2.css" media="screen and (max-width:767px)">
+<link rel="stylesheet" href="/css/common/s_common_2.css" media="screen and (max-width:767px)">
+<link rel="stylesheet" href="/column/css/common/r_common.css">
+
+<!--ページ固有css-->
+<link href="/products/css/index.css?v=4" rel="stylesheet">
+<!-- <link href="/css/index.css" rel="stylesheet"> -->
+<!-- <link rel="stylesheet" href="/flowchart/nyuyoku/css/index.css"> -->
+
+<!--ページ固有js-->
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/jquery.easing.js"></script>
+<script type="text/javascript" src="/js/jqueryAutoHeight.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/js/jquery.dcjqaccordion.2.7.min.js"></script>
+<script type="text/javascript" src="/js/common/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/js/common/r_gnavi.js"></script>
+<script type="text/javascript" src="/js/common/r_common_2.js"></script>
+<script type="text/javascript" src="/js/common/common_ipad.js"></script>
+<script type="text/javascript" src="/column/data/articleList.js"></script>
+<script type="text/javascript" src="/column/data/tagList.js"></script>
+<script type="text/javascript" src="/column/js/common/common.js"></script>
+
+<script type="module" src="js/index.ts" defer></script>
+
+
+<!-- Google Tag Manager -->
+<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PT5TLR6');</script> -->
+<!-- End Google Tag Manager -->
+
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PT5TLR6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<div id="container">
+		<div class="pcOnly">
+			<!--#include virtual="/include/header_low.inc" -->
+		</div>
+		<div class="spOnly">
+			<!--#include virtual="/include/r_header_low.inc" -->
+		</div>
+		<div class="contents">
+			<div id="location" class="pcOnly">
+				<!-- <p><a href="/index.html">ホーム</a><span>&gt;</span>入浴フローチャート</p> -->
+			</div>
+
+			<div class="mv_top">
+				<div class="mv_innerTxt">
+					<p>お身体の状態によって<br class="spOnly">上手に入浴用の福祉用具等を取り入れて、<br>お風呂時間を快適に過ごしましょう。</p>
+				</div>
+			</div>
+
+			<div class="content_inner clearfix">
+				<div class="content_ttl content_flex">
+					<h2>カンタン診断</h2>
+					<p class="content_desc">身体機能のタイプは<br class="spOnly">どれにあてはまりますか？</p>
+				</div>
+
+				<div class="tab">
+					<ul id="tabLists" class="tab_images">
+						<li id="tabsPink" class="tab_image tab_pink" data-id="pink">
+							<img src="./img/pc/shower_tab1.png" class="tab_inner_img" alt="歩行ができる方">
+							<span class="tab_arrow tab_pink_arrow"></span>
+						</li>
+						<li id="tabsGreen" class="tab_image tab_green active" data-id="green">
+							<img src="./img/pc/shower_tab2.png" class="tab_inner_img" alt="立ち座りができる方">
+							<span class="tab_arrow tab_green_arrow"></span>
+						</li>
+						<li id="tabsBlue" class="tab_image tab_blue" data-id="blue">
+							<img src="./img/pc/shower_tab3.png" class="tab_inner_img" alt="ある程度座った姿勢が保てる方">
+							<span class="tab_arrow tab_blue_arrow"></span>
+						</li>
+					</ul>
+				</div>
+
+				<div class="shower" id="showerContent">
+					<div id="pink" class="shower_tab">
+						<div class="tab1_inner">
+							<figure>
+								<picture>
+									<img class="flowSp_img pinkSP imgSP" src="./img/pink/SP/1st_SP.jpg">
+									<img class="flow_img pinkPC imgPC" src="./img/pink/PC/1st_PC.jpg">
+								</picture>
+							</figure>
+							<div class="tab_btn_wrapper">	
+								<button class="tab1_btn flowchart_start show hover" data-id="pinkStart">フローチャートスタート</button>
+								<div class="flow_control">
+									<button id="pinkBack" class="flowchart_btn hover flowchart_back" data-id="pinkBack">前へ</button>
+									<button id="pinkNext" class="flowchart_btn hover flowchart_next" data-id="pinkNext">次へ</button>
+								</div>
+								<ul class="tab_bottom_btn">
+									<li class="hover btn-mr"><a href="/flowchart/nyuyoku/pdf/nyuyoku_pink.pdf" target="_blank">チャート全体を見る</a></li>
+									<li id="pinkJumpToStart" class="hover"><a href="#showerContent">最初から見る</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div id="green" class="shower_tab show">
+						<div class="tab2_inner">
+							<figure>
+								<picture>
+									<img class="flowSp_img greenSP imgSP" src="./img/green/SP/1st_SP.jpg" alt="【立ち座りができる方】スタート画面">
+									<img class="flow_img greenPC imgPC" src="./img/green/PC/1st_PC.jpg" alt="【立ち座りができる方】スタート画面">
+								</picture>
+							</figure>
+							<div class="tab_btn_wrapper">
+								<button class="tab2_btn flowchart_start show hover" data-id="greenStart">フローチャートスタート</button>
+								<div class="flow_control">
+									<button id="greenBack" class="flowchart_btn hover flowchart_back" data-id="greenBack">前へ</button>
+									<button id="greenNext" class="flowchart_btn hover flowchart_next" data-id="greenNext">次へ</button>
+								</div>
+								<ul class="tab_bottom_btn">
+									<li class="hover btn-mr"><a href="/flowchart/nyuyoku/pdf/nyuyoku_green.pdf" target="_blank">チャート全体を見る</a></li>
+									<li id="greenJumpToStart" class="hover"><a href="#showerContent">最初から見る</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div id="blue" class="shower_tab">
+						<div class="tab3_inner">
+							<figure>
+								<picture>
+									<img class="flowSp_img blueSP imgSP" src="./img/blue/SP/1st_SP.jpg">
+									<img class="flow_img bluePC imgPC" src="./img/blue/PC/1st_PC.jpg">
+								</picture>
+							</figure>
+							<div class="tab_btn_wrapper">
+								<button class="tab3_btn flowchart_start show hover" data-id="blueStart">フローチャートスタート</button>
+								<div class="flow_control">
+									<button id="blueBack" class="flowchart_btn hover flowchart_back" data-id="blueBack">前へ</button>
+									<button id="blueNext" class="flowchart_btn hover flowchart_next" data-id="blueNext">次へ</button>
+								</div>
+								<ul class="tab_bottom_btn">
+									<li class="hover btn-mr"><a href="/flowchart/nyuyoku/pdf/nyuyoku_blue.pdf" target="_blank">チャート全体を見る</a></li>
+									<li id="blueJumpToStart" class="hover"><a href="#showerContent">最初から見る</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			
+				<!--#include virtual="/include/flowchart_cv.inc" -->
+
+				<div class="content_ttl content_flex">
+					<h2>おすすめ商品</h2>
+					<p class="content_desc">入浴を補助する福祉用具の商品例を<br class="spOnly">場面別にご紹介します。</p>
+					<p class="content_btn"><a>浴室・洗い場</a></p>
+				</div>
+
+				<div class="products">
+					<div class="prod1">
+						<p class="product_ttl">
+							<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_ttl.png">
+							<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_ttl.jpg">
+						</p>
+						<ul class="product_list">
+							<li class="product_item">
+								<h4>入浴用いす</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-11/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-11/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">シャワーチェア「ユク リア」ミドルSP</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-11/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>入浴用いす</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-12/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-12/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">折りたたみシャワーベ ンチ FSフィット</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-12/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>入浴用いす</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-17/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-17/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">入浴・シャワー用車いす KSC-2</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-17/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>入浴用介助ベルト</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-21/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-21/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">テイコブ楽々入浴用 介助ベルト</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-21/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>入浴用介助ベルト</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-20/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-20/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex p-txt1">新・入浴用キャリーベルト</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-20/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>浴室内すのこ</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-3/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-3/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex p-txt1">浴室すのこ(カラリ床)</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-3/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item last">
+								<h4>浴室内すのこ</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-23/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-23/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex p-txt1">フォーアクセススノコ</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-23/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+						</ul>
+					</div>
+					<div class="prod2">
+						<ul class="product_list">
+							<li class="product_item">
+								<h4>滑り止めマット</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-5/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-5/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">安寿 おく楽 すべり止めマット</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-5/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>滑り止めマット</h4>
+								<a class="product_card" href="#">
+									<div class="product_img">
+										<figure><img src="../nyuyoku/img/pc/dummy_img2.jpg"></figure>
+									</div>
+								</a>
+								<p class="product_btn_soon product_flex">
+									<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_soon.jpg">
+									<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_soon.jpg">
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>手すり（設置工事）</h4>
+								<a class="product_card" href="#">
+									<div class="product_img">
+										<figure><img src="../nyuyoku/img/pc/dummy_img3.jpg"></figure>
+									</div>
+								</a>
+								<p class="product_btn_soon product_flex">
+									<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_soon.jpg">
+									<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_soon.jpg">
+								</p>
+							</li>
+						</ul>
+					</div>
+					<div class="prod3">
+						<p class="product_ttl">
+							<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_ttl2.jpg">
+							<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_ttl2.jpg">
+						</p>
+						<ul class="product_list mb_prod3">
+							<li class="product_item">
+								<h4>浴室内手すり(据置型)</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/tesuri/A-6-55/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/tesuri/A-6-55/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">ふくよく 床置き式手すり 水回りにもってこい60-I</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/tesuri/A-6-55/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>室内用スロープ</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/slopelift/A-7-11/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/slopelift/A-7-11/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex p-txt1">ダイヤスロープ</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/slopelift/A-7-11/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+						</ul>
+						<p class="content_btn"><a>浴槽</a></p>
+					</div>
+					<div class="prod4">
+						<p class="product_ttl">
+							<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_ttl.png">
+							<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_ttl.jpg">
+						</p>
+						<ul class="product_list">
+							<li class="product_item">
+								<h4>浴槽用手すり</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-13/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-13/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">入浴グリップ「ユクリ ア」コンパクト130</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-13/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>浴槽用手すり</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-2/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-2/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">高さ調節機能付浴槽手 すり UST-130</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-2/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>入浴台</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-14/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-14/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">バスボード H-S/H-Lはねあげくん</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-14/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item ">
+								<h4>入浴台</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-9/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-9/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex p-txt1">バスボードU-S/U-L</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-9/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>浴槽台（浴槽内いす）</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-1/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-1/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">ステンレス製浴槽台R“あしぴた”シリーズ(ミニ)ソフトクッションタイプ</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-1/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>浴槽台（浴槽内いす）</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-19/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/nyuyoku/B-3-19/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex p-txt1">ステンレス製浴槽台R“あしぴた”シリーズ(標準)</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/nyuyoku/B-3-19/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item last">
+								<h4>浴槽内すのこ</h4>
+								<a class="product_card" href="#">
+									<div class="product_img">
+										<figure><img src="../nyuyoku/img/pc/dummy_img4.jpg"></figure>
+									</div>
+								</a>
+								<p class="product_btn_soon product_flex">
+									<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_soon.jpg">
+									<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_soon.jpg">
+								</p>
+							</li>
+						</ul>
+					</div>
+					<div class="prod5">
+						<p class="product_ttl">
+							<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_ttl2.jpg">
+							<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_ttl2.jpg">
+						</p>
+						<ul class="product_list">
+							<li class="product_item">
+								<h4>入浴用リフト</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/slopelift/A-7-6/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/slopelift/A-7-6/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">バスリフト EWB</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/slopelift/A-7-6/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+							<li class="product_item">
+								<h4>移動用リフト</h4>
+								<a class="product_card" href="https://healthrent.duskin.jp/products/slopelift/A-7-24/index.html?link=flowchart">
+									<div class="product_img">
+										<figure><img src="/products/slopelift/A-7-24/img/item_img_01.jpg"></figure>
+									</div>
+									<p class="product_desc product_flex">バスラベンダー</p>
+								</a>
+								<p class="product_btn product_flex">
+									<a class="product_card" href="https://healthrent.duskin.jp/products/slopelift/A-7-24/index.html?link=flowchart">
+										<img class="pcOnly" src="../nyuyoku/img/pc/shower_prod_btn.png">
+										<img class="spOnly" src="../nyuyoku/img/sp/shower_prod_btn.jpg">
+									</a>
+								</p>
+							</li>
+						</ul>
+					</div>
+					<p class="product_text">商品のご購入、レンタル、又は試用をご希望の場合は、各店舗にご相談ください。また、介護保険を利用する場合は、担当のケアマネジャーもしくは各店舗にご相談ください。使用方法によっては、保険者(市区町村)の判断で介護保険の対象にならない場合があります。</p>
+				</div>
+
+				<!--#include virtual="/include/flowchart_cv.inc" -->
+
+			</div>
+
+			<p id="pagetop_btn" class="pcOnly"><a href="#header"><img src="/cmn_img/pagetop_btn.gif" alt="このページのトップへ" width="130" height="21"></a></p>
+		</div>
+		<div class="pcOnly">
+			<!--#include virtual="/include/footer.inc" -->
+		</div>
+		<div class="spOnly">
+			<!--#include virtual="/include/s_footer.inc" -->
+		</div>
+	</div>
+	<!--#include virtual="/include/footer_log.inc" -->
+
+	<script type="text/javascript">
+		// var ie = !(navigator.userAgent.indexOf("MSIE")<0);
+		// if(ie == true) { 
+		// 	document.write ("<script src=\"./js/flowchart.fallback.js\"></scr"+"ipt>");
+		// } else {
+		// 	document.write ("<script src=\"./js/flowchart.js\"></scr"+"ipt>");
+		// }
+		// if IE 8 or above
+		// if (document.documentMode) {
+		// 	document.write ("<script src=\"./js/flowchart.fallback.js\"></scr"+"ipt>");
+		// }
+	</script>
+</body>
+</html>

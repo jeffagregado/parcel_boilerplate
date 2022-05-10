@@ -5,9 +5,17 @@
   "browserslist": "last 2 versions, > 0.5%, IE 10",
   "parcelIgnore": [
     "jquery.min.js",
+    "jquery.js",
+    "common.js",
+    "jquery.*.js",
+    "/products/css/index.css",
+    "/column/data\/*.*",
+    "/cmn_img\/*.*",
     "/*.csv",
+    "/*.pdf",
     "/*.png",
-    "/*.jpg"
+    "/*.jpg",
+    "\/*/common\/*.*"
   ],
   "@parcel/transformer-css": {
     "drafts": {
